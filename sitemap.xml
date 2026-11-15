@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://phanta-spectre.github.io/Fantastical_Parisian_Spectre/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://phantaspa.xyz/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://phanta-spectre.github.io/Fantastical_Parisian_Spectre/</loc>
+<loc>https://phantaspa.xyz/</loc>
 </url>
 <url>
-<loc>https://phanta-spectre.github.io/Fantastical_Parisian_Spectre/welcome-to-my-blog/</loc>
-<lastmod>2026-11-14T23:51:56+00:00</lastmod>
+<loc>https://phantaspa.xyz/qi-guan/</loc>
+<lastmod>2026-11-15T01:58:25+00:00</lastmod>
+</url>
+<url>
+<loc>https://phantaspa.xyz/welcome-to-my-blog/</loc>
+<lastmod>2026-11-15T01:49:19+00:00</lastmod>
 </url>
 </urlset>

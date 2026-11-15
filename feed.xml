@@ -1,26 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Fantastical_Parisian_Spectre</title>
-    <link href="https://phanta-spectre.github.io/Fantastical_Parisian_Spectre/feed.xml" rel="self" />
-    <link href="https://phanta-spectre.github.io/Fantastical_Parisian_Spectre" />
-    <updated>2026-11-14T23:51:56+00:00</updated>
+    <link href="https://phantaspa.xyz/feed.xml" rel="self" />
+    <link href="https://phantaspa.xyz" />
+    <updated>2026-11-15T01:58:25+00:00</updated>
     <author>
         <name>Phanta</name>
     </author>
-    <id>https://phanta-spectre.github.io/Fantastical_Parisian_Spectre</id>
+    <id>https://phantaspa.xyz</id>
 
+    <entry>
+        <title>奇观</title>
+        <author>
+            <name>Phanta</name>
+        </author>
+        <link href="https://phantaspa.xyz/qi-guan/"/>
+        <id>https://phantaspa.xyz/qi-guan/</id>
+
+        <updated>2026-11-15T01:58:25+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    我想写一篇文章，或一本书，关于人类历史上的奇观。 这里的奇观，不是居伊·德波式的景观，虽然很多景观配得上被称为奇观。我认定奇观有两个标准：一是，人类要为其投注大量的资源和心力；二是，让人类为止投注大量心力的原因，在之后的时代、或是不同的社会中，是不可复现、甚至难以理喻的。 奇观就像废墟——即使它们尚未荒废，或是早已不复存在。 奇观是意识形态的废墟，人类傲气的纪念碑。它们也提醒着那些嘲笑它们的人，社会究竟可以有多不一样。 中国大跃进时的小高炉；成功学、气功热。多人抬的大轿，殉葬坑。 西班牙殖民时期复杂的种族分类：Mullato, Albano。 阿尔巴尼亚的地堡集群。 长城，ATM机，比特币，AI算力中心。人民公社里，粪票兑工分。 西岸和加沙的检查点和哨所。 大教堂，金阁寺，圆明园。“知识产权”。 联合国教科文组织和它评定的物质与非物质文化遗产。 武汉封城，方舱医院。 时代峰峻演唱会，评论区领养OC。 面试技巧分享，个人简历优化。 列宁像，红宝书，马斯克。 （未完待续...）
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>我想写一篇文章，或一本书，关于人类历史上的奇观。</p>
+<p>这里的奇观，不是居伊·德波式的景观，虽然很多景观配得上被称为奇观。我认定奇观有两个标准：一是，人类要为其投注大量的资源和心力；二是，让人类为止投注大量心力的原因，在之后的时代、或是不同的社会中，是不可复现、甚至难以理喻的。</p>
+<p>奇观就像废墟——即使它们尚未荒废，或是早已不复存在。</p>
+<p>奇观是意识形态的废墟，人类傲气的纪念碑。它们也提醒着那些嘲笑它们的人，社会究竟可以有多不一样。</p>
+<p>中国大跃进时的小高炉；成功学、气功热。多人抬的大轿，殉葬坑。</p>
+<p>西班牙殖民时期复杂的种族分类：Mullato, Albano。</p>
+<p>阿尔巴尼亚的地堡集群。</p>
+<p>长城，ATM机，比特币，AI算力中心。人民公社里，粪票兑工分。</p>
+<p>西岸和加沙的检查点和哨所。</p>
+<p>大教堂，金阁寺，圆明园。“知识产权”。</p>
+<p>联合国教科文组织和它评定的物质与非物质文化遗产。</p>
+<p>武汉封城，方舱医院。</p>
+<p>时代峰峻演唱会，评论区领养OC。</p>
+<p>面试技巧分享，个人简历优化。</p>
+<p>列宁像，红宝书，马斯克。</p>
+<p>（未完待续...）</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome to My Blog</title>
         <author>
             <name>Phanta</name>
         </author>
-        <link href="https://phanta-spectre.github.io/Fantastical_Parisian_Spectre/welcome-to-my-blog/"/>
-        <id>https://phanta-spectre.github.io/Fantastical_Parisian_Spectre/welcome-to-my-blog/</id>
+        <link href="https://phantaspa.xyz/welcome-to-my-blog/"/>
+        <id>https://phantaspa.xyz/welcome-to-my-blog/</id>
 
         <updated>2026-11-14T23:51:56+00:00</updated>
             <summary type="html">
                 <![CDATA[
-                    自从某位前辈不见后，就一直想要弄一个属于自己的网站呢...
+                    自从某位前辈不见后，就一直想要弄一个属于自己的网站呢... 之前用来host个人博客的站点，noblogs.org，惨遭吉列的豆蒸，残酷的镇压，给我的文章都干没影了。不过也好，一直用他们公益提供的免费资源进行一些赛博闲聊，我心里也是过意不去的... 不过现在搭建这个网站，大概也是出于某种膝跳反射。虽然本来就没有怎么好好写文章，忽然发现发文章的地方不见了的话，也是蛮伤心的。
                 ]]>
             </summary>
         <content type="html">
@@ -28,6 +63,14 @@
                 
   <p>
     自从某位前辈不见后，就一直想要弄一个属于自己的网站呢...
+  </p>
+
+  <p>
+    之前用来host个人博客的站点，noblogs.org，惨遭<a href="https://en.wikipedia.org/wiki/Autistici/Inventati#Shutdown_(2026)" target="_blank">吉列的豆蒸</a>，残酷的镇压，给我的文章都干没影了。不过也好，一直用他们公益提供的免费资源进行一些赛博闲聊，我心里也是过意不去的...
+  </p>
+
+  <p>
+    不过现在搭建这个网站，大概也是出于某种膝跳反射。虽然本来就没有怎么好好写文章，忽然发现发文章的地方不见了的话，也是蛮伤心的。
   </p>
             ]]>
         </content>
