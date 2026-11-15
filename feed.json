@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fantastical_Parisian_Spectre",
+    "description": "",
+    "home_page_url": "https://phantaspa.xyz",
+    "feed_url": "https://phantaspa.xyz/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Phanta"
+    },
+    "items": [
+        {
+            "id": "https://phantaspa.xyz/welcome-to-my-blog/",
+            "url": "https://phantaspa.xyz/welcome-to-my-blog/",
+            "title": "Welcome to My Blog",
+            "summary": "自从某位前辈不见后，就一直想要弄一个属于自己的网站呢...",
+            "content_html": "\n  <p>\n    自从某位前辈不见后，就一直想要弄一个属于自己的网站呢...\n  </p>",
+            "author": {
+                "name": "Phanta"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-14T23:51:56+00:00",
+            "date_modified": "2026-11-14T23:51:56+00:00"
+        }
+    ]
+}

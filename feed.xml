@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Fantastical_Parisian_Spectre</title>
+    <link href="https://phantaspa.xyz/feed.xml" rel="self" />
+    <link href="https://phantaspa.xyz" />
+    <updated>2026-11-14T23:51:56+00:00</updated>
+    <author>
+        <name>Phanta</name>
+    </author>
+    <id>https://phantaspa.xyz</id>
+
+    <entry>
+        <title>Welcome to My Blog</title>
+        <author>
+            <name>Phanta</name>
+        </author>
+        <link href="https://phantaspa.xyz/welcome-to-my-blog/"/>
+        <id>https://phantaspa.xyz/welcome-to-my-blog/</id>
+
+        <updated>2026-11-14T23:51:56+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    自从某位前辈不见后，就一直想要弄一个属于自己的网站呢...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    自从某位前辈不见后，就一直想要弄一个属于自己的网站呢...
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
