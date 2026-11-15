@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Fantastical_Parisian_Spectre",
     "description": "",
-    "home_page_url": "https://phantaspa.xyz",
-    "feed_url": "https://phantaspa.xyz/feed.json",
+    "home_page_url": "https://phanta-spectre.github.io/Fantastical_Parisian_Spectre",
+    "feed_url": "https://phanta-spectre.github.io/Fantastical_Parisian_Spectre/feed.json",
     "user_comment": "",
     "author": {
         "name": "Phanta"
     },
     "items": [
         {
-            "id": "https://phantaspa.xyz/welcome-to-my-blog/",
-            "url": "https://phantaspa.xyz/welcome-to-my-blog/",
+            "id": "https://phanta-spectre.github.io/Fantastical_Parisian_Spectre/welcome-to-my-blog/",
+            "url": "https://phanta-spectre.github.io/Fantastical_Parisian_Spectre/welcome-to-my-blog/",
             "title": "Welcome to My Blog",
             "summary": "自从某位前辈不见后，就一直想要弄一个属于自己的网站呢...",
             "content_html": "\n  <p>\n    自从某位前辈不见后，就一直想要弄一个属于自己的网站呢...\n  </p>",
